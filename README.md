@@ -1,4 +1,11 @@
 # Project 2 - *Wordle*
+<div>
+    <a href="https://www.loom.com/share/fd9b2601f76347aea71231b4e52f50f9">
+    </a>
+    <a href="https://www.loom.com/share/fd9b2601f76347aea71231b4e52f50f9">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/fd9b2601f76347aea71231b4e52f50f9-f15b7d7e59402296-full-play.gif">
+    </a>
+  </div>
 
 Submitted by: **Vanessa Ramirez**
 
